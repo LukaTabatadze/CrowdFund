@@ -549,6 +549,9 @@ color: #1B1B1B;
     .speakersh4{
         font-size:30px;
     }
+    .link-footer-2{
+        font-size: 15px;
+    }
 }
 body{
     overflow-x: hidden !important;
