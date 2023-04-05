@@ -545,7 +545,11 @@ color: #1B1B1B;
         margin-top:10% !important
     }
 }
-
+@media (max-width:420px){
+    .speakersh4{
+        font-size:20px;
+    }
+}
 body{
-    overflow: hidden !important;
+    overflow-x: hidden !important;
 }
